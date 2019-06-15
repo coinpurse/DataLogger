@@ -9,3 +9,14 @@ C:\Users\Tyler\Documents\Visual Studio 2015\Projects\WinformMemLogger\WinformMem
 C:\Users\Tyler\Documents\Visual Studio 2015\Projects\WinformMemLogger\WinformMemLogger\obj\Debug\WinformMemLogger.pdb
 C:\Users\Tyler\Documents\Visual Studio 2015\Projects\WinformMemLogger\WinformMemLogger\bin\Debug\DataLibrary.dll
 C:\Users\Tyler\Documents\Visual Studio 2015\Projects\WinformMemLogger\WinformMemLogger\bin\Debug\WinformMemLogger.XML
+C:\Users\Tyler\Desktop\DataLogger\WinformMemLogger\WinformMemLogger\bin\Debug\WinformMemLogger.exe.config
+C:\Users\Tyler\Desktop\DataLogger\WinformMemLogger\WinformMemLogger\bin\Debug\WinformMemLogger.XML
+C:\Users\Tyler\Desktop\DataLogger\WinformMemLogger\WinformMemLogger\obj\Debug\WinformMemLogger.exe
+C:\Users\Tyler\Desktop\DataLogger\WinformMemLogger\WinformMemLogger\obj\Debug\WinformMemLogger.pdb
+C:\Users\Tyler\Desktop\DataLogger\WinformMemLogger\WinformMemLogger\bin\Debug\WinformMemLogger.exe
+C:\Users\Tyler\Desktop\DataLogger\WinformMemLogger\WinformMemLogger\bin\Debug\WinformMemLogger.pdb
+C:\Users\Tyler\Desktop\DataLogger\WinformMemLogger\WinformMemLogger\bin\Debug\DataLibrary.dll
+C:\Users\Tyler\Desktop\DataLogger\WinformMemLogger\WinformMemLogger\obj\Debug\WinformMemLogger.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Desktop\DataLogger\WinformMemLogger\WinformMemLogger\obj\Debug\WinformMemLogger.Form1.resources
+C:\Users\Tyler\Desktop\DataLogger\WinformMemLogger\WinformMemLogger\obj\Debug\WinformMemLogger.Properties.Resources.resources
+C:\Users\Tyler\Desktop\DataLogger\WinformMemLogger\WinformMemLogger\obj\Debug\WinformMemLogger.csproj.GenerateResource.Cache
